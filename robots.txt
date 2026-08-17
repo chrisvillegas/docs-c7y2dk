@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-j470u9.plcwin.xyz/sitemap.xml
